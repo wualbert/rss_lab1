@@ -1,0 +1,17 @@
+commit e25c4cfea5b9c95da8675447ce81c544a44ec72b
+Author: wualbert <wualbert@mit.edu>
+Date:   Mon Feb 11 13:15:03 2019 -0500
+
+    problem 1
+
+commit 633e9a5246ab663072b8e69897cce199cd7a238b
+Author: wualbert <wualbert@mit.edu>
+Date:   Mon Feb 11 13:11:59 2019 -0500
+
+    linux exercise
+
+commit cd5212cc946cdb454997ab645289d6f382d1f79a
+Author: wualbert <wualbert@users.noreply.github.com>
+Date:   Sat Feb 9 20:02:19 2019 -0500
+
+    Initial commit
