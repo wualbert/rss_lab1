@@ -1,0 +1,43 @@
+diff --git a/random.txt b/random.txt
+index 3284f63..ba6994a 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,24 +1,19 @@
+-How few! yet how they creep
+-Them with a tighter clasp?
+-Is it therefore the less gone?
++And, in parting from you now,
++In a vision, or in none,
++Through my fingers to the deep,
++In a night, or in a day,
+ All that we see or seem
+-Grains of the golden sand--
+-Is all that we see or seem
+-Is all that we see or seem
+-And I hold within my hand
+ O God! can I not save
+-Through my fingers to the deep,
+-Through my fingers to the deep,
+-One from the pitiless wave?
+-Yet if hope has flown away
+-And, in parting from you now,
+-Is all that we see or seem
+-And, in parting from you now,
++Take this kiss upon the brow!
+ O God! can I not grasp
+-I stand amid the roar
+-And, in parting from you now,
++Grains of the golden sand--
++One from the pitiless wave?
++In a vision, or in none,
++Thus much let me avow--
++That my days have been a dream;
++In a vision, or in none,
++Grains of the golden sand--
+ All that we see or seem
+-
+-Take this kiss upon the brow!
+-O God! can I not save
+ Take this kiss upon the brow!
++And, in parting from you now,
++Thus much let me avow--
